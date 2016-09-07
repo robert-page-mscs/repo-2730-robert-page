@@ -37,7 +37,7 @@ Public Class frmMain
     End Sub
 
     Private Sub btnCalc_Click(sender As Object, e As EventArgs) Handles btnCalc.Click
-        ' calculate numbert of items sold and total sales
+        ' calculate number of items sold and total sales
 
         lblTotalItems.Text = Val(txtDonuts.Text) + Val(txtMuffins.Text)
         lblTotalSales.Text = Val(lblTotalItems.Text) * 0.5
