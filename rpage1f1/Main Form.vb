@@ -1,4 +1,7 @@
-﻿
+﻿'Name:          Cranston Berries Project
+'Purpose:       Calculate projected sale
+'Programmer:    Robert Page on 9/15/2016
+
 Option Strict On
 
 
