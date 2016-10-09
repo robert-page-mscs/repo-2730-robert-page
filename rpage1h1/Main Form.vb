@@ -2,7 +2,7 @@
 'Purpose:       Dislay the gross pay, FWT, FICA, state income tax, and net pay.
 'Programmer:    Robert Page on 9/27/2016
 
-Option Strict On
+'Option Strict On
 
 Public Class frmMain
 
@@ -25,6 +25,7 @@ Public Class frmMain
         txtPayRate.Text = "0.00"
         lblGross.Text = String.Empty
         lblFWT.Text = String.Empty
+        lblFICA.Text = String.Empty
         lblState.Text = String.Empty
         lblNet.Text = String.Empty
 
