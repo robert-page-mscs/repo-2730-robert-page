@@ -27,6 +27,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rpage2f1", "rpage2f1\rpage2
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rpage2G1", "rpage2G1\rpage2G1.vbproj", "{B448F313-7C90-44A9-AF5D-8632D3A0B73F}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rpage2h1", "rpage2h1\rpage2h1.vbproj", "{41819C13-BF6F-4194-B5EA-85A795F79DD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{B448F313-7C90-44A9-AF5D-8632D3A0B73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B448F313-7C90-44A9-AF5D-8632D3A0B73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B448F313-7C90-44A9-AF5D-8632D3A0B73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41819C13-BF6F-4194-B5EA-85A795F79DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41819C13-BF6F-4194-B5EA-85A795F79DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41819C13-BF6F-4194-B5EA-85A795F79DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41819C13-BF6F-4194-B5EA-85A795F79DD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
