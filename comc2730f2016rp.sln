@@ -29,6 +29,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rpage2G1", "rpage2G1\rpage2
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rpage2h1", "rpage2h1\rpage2h1.vbproj", "{41819C13-BF6F-4194-B5EA-85A795F79DD0}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rpage2I1", "rpage2I1\rpage2I1.vbproj", "{CF460027-E026-4A5C-9A3B-66A2F6789F0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{41819C13-BF6F-4194-B5EA-85A795F79DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41819C13-BF6F-4194-B5EA-85A795F79DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41819C13-BF6F-4194-B5EA-85A795F79DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF460027-E026-4A5C-9A3B-66A2F6789F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF460027-E026-4A5C-9A3B-66A2F6789F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF460027-E026-4A5C-9A3B-66A2F6789F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF460027-E026-4A5C-9A3B-66A2F6789F0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

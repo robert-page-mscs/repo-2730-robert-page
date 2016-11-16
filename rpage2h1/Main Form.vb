@@ -37,7 +37,7 @@ Public Class frmMain
         End If
 
         If boolSalesOK AndAlso dblSales >= 1.0 AndAlso dblSales < 6000.0 Then
-            dblCom = dblSales * 1
+            dblCom = dblSales * 0.1
         End If
 
         If boolSalesOK AndAlso dblSales >= 6000.0 AndAlso dblSales < 30000.0 Then
@@ -91,7 +91,7 @@ Public Class frmMain
                 dblCom = 120.0 + (dblSales - 6000.0) * 0.13
             Else
                 If dblSales > 1.0 Then
-                    dblCom = dblSales * 1
+                    dblCom = dblSales * 0.1
                 Else
                     If dblSales > 0.0 Then
                         dblCom = 0.0
@@ -142,7 +142,7 @@ Public Class frmMain
                 Case Is >= 6000.0
                     dblCom = 120.0 + (dblSales - 6000.0) * 0.13
                 Case Is >= 1
-                    dblCom = dblSales * 1
+                    dblCom = dblSales * 0.1
                 Case Is > 0
                     dblCom = 0.0
             End Select
@@ -188,7 +188,7 @@ Public Class frmMain
         End If
 
         If boolSalesOK AndAlso dblSales >= 1.0 AndAlso dblSales < 6000.0 Then
-            dblCom = dblSales * 1
+            dblCom = dblSales * 0.1
         End If
 
         If boolSalesOK AndAlso dblSales >= 6000.0 AndAlso dblSales < 30000.0 Then
